@@ -33,6 +33,8 @@ $ npx knex seeds:run
 
 $ yarn dev
 
+--------------------------------
+
 ### Front-end
 
 #### Instalar as dependências
@@ -42,6 +44,8 @@ $ npm install
 #### Executar aplicação
 
 $ npm start
+
+-------------------------------
 
 ### Mobile
 
