@@ -13,7 +13,9 @@ Esse projeto foi desenvolvido nas tecnologias:
 
 #### Clonar meu repositório
 
-$ git clone 
+$ git clone https://github.com/denisesleite/semanaomistack11.git
+
+--------------------------------
 
 ### Back-end 
 
