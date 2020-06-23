@@ -11,45 +11,45 @@ Esse projeto foi desenvolvido nas tecnologias:
 
 #### Para rodar a aplicação você deve primeiramente: 
 
-Clonar meu repositório<br/>
+#### Clonar meu repositório
 
 $ git clone 
 
 ### Back-end 
 
-<b>Instalar as dependências</b><br/>
+#### Instalar as dependências
 
 $ npm install
 
-<b>Executar migrations do banco SQLITE</b><br/>
+#### Executar migrations do banco SQLITE
 
 $ npx knex migrate:latest
 
-<b>Executar seeds</b><br/>
+#### Executar seeds
 
 $ npx knex seeds:run
 
-<b>Executar servidor</b><br/>
+#### Executar servidor
 
 $ yarn dev
 
 ### Front-end
 
-<b>Instalar as dependências</b><br/>
+#### Instalar as dependências
 
 $ npm install
 
-<b>Executar aplicação</b><br/>
+#### Executar aplicação
 
 $ npm start
 
 ### Mobile
 
-<b>Instalar as dependências</b><br/>
+#### Instalar as dependências
 
 $ npm install
 
-<b>Executar aplicação</b><br/>
+#### Executar aplicação
 
 $ npm start
 
